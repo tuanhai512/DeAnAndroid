@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/info"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Thông tin"/>
+    <item
+        android:id="@+id/setup"
+        android:icon="@drawable/ic_outline_settings_24"
+        android:title="Cài đặt"/>
+
+</menu>
